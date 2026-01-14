@@ -1,0 +1,19 @@
+{
+  "name": "Casino Mediterráneo Alicante ",
+  "short_name": "Casino Mediterráneo Alicante ",
+  "theme_color": "",
+  "background_color": "#13242F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768382500-favicon-wwwcasinomediterraneoes.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

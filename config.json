@@ -1,0 +1,197 @@
+{
+    "es-ES": {
+        "styles": {
+            "bg": "#13242F",
+            "lang-select-color": "#222829",
+            "bg-light": "#13242F",
+            "welcome-bonus-bg": "#13242F",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#2A3D49",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#4D738B",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#BF0D31",
+            "yellow": "#4D738B",
+            "yellow-button": "#BF0D31",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#13242F",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#13242F",
+            "faq-label": "#13242F",
+            "bg-footer": "#13242F",
+            "copyright": "#e7e7d5",
+            "starColor": "#4D738B",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Mediterráneo Alicante ",
+            "title": "Casino Mediterráneo Alicante: casino junto a la marina, torneos de póker, slots y restaurante",
+            "description": "Descubre Casino Mediterráneo Alicante: ambiente moderno, juegos populares, series de póker, bar y restaurante. Consulta normas de acceso, rangos de apuesta, promociones y opciones de ocio para una noche completa.",
+            "canonical": "casino-mediterraneo-alicante.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1658",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casino-mediterraneo-alicante.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1659",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1660"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1662",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Mediterráneo Alicante Logo"
+        },
+        "nav": {
+            "signUp": "Registrarse",
+            "playNow": "Jugar ahora"
+        },
+        "hero": {
+            "title": "Casino Mediterráneo Alicante — juegos, póker, restaurante y eventos nocturnos",
+            "textDesktop": "Oferta exclusiva de bienvenida de",
+            "textMobile": "Oferta exclusiva de bienvenida de",
+            "playGame": "Jugar",
+            "claimBonus": "Reclamar bono",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1663",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1664",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Reclamar bono",
+            "title": "Los mejores casinos",
+            "allCasino": "Todos los casinos",
+            "welcomeBonusText": "Bono de bienvenida"
+        },
+        "bonusDetails": {
+            "title": "Detalles de bonificación",
+            "getBonusButtonText": "Obtener bono",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonos",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Giros gratis",
+            "moreInfo": "Más info",
+            "get": "Conseguir",
+            "refresh": "Refrescar"
+        },
+        "advantages": {
+            "title": "Ventajas",
+            "advantagesBeforeText": "",
+            "items": [
+                "Cobros de premios ágiles y claros",
+                "Series de póker con grandes premios",
+                "Slots con jackpots y rondas bonus",
+                "Ruleta y blackjack con límites variados",
+                "Ubicación cómoda junto a la marina",
+                "Restaurante y bar para una noche completa",
+                "Seguridad profesional y ambiente confortable"
+            ],
+            "advantagesAfterText": "Casino Mediterráneo Alicante destaca por combinar sala moderna, buen ritmo de póker y servicios completos. Es un lugar pensado para disfrutar sin prisas: cena, copa y juego en un mismo plan. Además, la experiencia suele sentirse cuidada y accesible para distintos perfiles de visitante.\n",
+            "knowMore": "Saber más",
+            "appTitle": "Casino Mediterráneo Alicante App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1665",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Mediterráneo Alicante App",
+            "mobileGooglePlayImageTitle": "Casino Mediterráneo Alicante App",
+            "mobileIosImageTitle": "Casino Mediterráneo Alicante App"
+        },
+        "games": {
+            "playNowText": "Jugar ahora",
+            "title": " Los mejores juegos",
+            "allGames": "Todos los juegos"
+        },
+        "about": {
+            "history": {
+                "title": "Acerca de Casino Mediterráneo Alicante",
+                "description1": "Casino Mediterráneo Alicante se diferencia por su calendario constante y una escena de póker muy activa. Además, combina juego y gastronomía para una salida completa sin desplazamientos.\n",
+                "items": [
+                    "Premios hasta 100.000€.",
+                    "Bono de juego 50€.",
+                    "Póker con botes 50.000€."
+                ],
+                "description2": "Casino Mediterráneo Alicante es un casino moderno junto al mar, ideal para vivir una noche diferente. El ambiente es actual y elegante sin excesos, por lo que resulta cómodo para todo tipo de público.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1666",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " Aquí se puede alternar entre juegos de mesa clásicos y slots con dinámicas variadas. La zona de póker aporta movimiento y emoción, con eventos que mantienen el interés de forma constante. El servicio suele ser atento y facilita la experiencia a quien llega por primera vez. El casino se vive como un plan completo donde juego y socialización van de la mano. También hay opciones para cenar o tomar algo y alargar la velada con calma. La ubicación invita a combinar la visita con un paseo por la marina. El acceso controlado y la seguridad refuerzan una sensación de tranquilidad. En conjunto, es un espacio pensado para disfrutar, desconectar y sumar sensaciones.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Noche junto a la marina: estilo, ambiente y ritmo en Casino Mediterráneo Alicante",
+                "description": "<p>\nCasino Mediterráneo Alicante recibe con una estética moderna, iluminación cuidada y una organización pensada para moverse con comodidad. El espacio se percibe ordenado y agradable, con zonas diferenciadas que ayudan a mantener una experiencia equilibrada. El ambiente suele sentirse como un lounge urbano donde se puede jugar y conversar sin prisas. La música y el sonido general acostumbran a acompañar sin saturar.\n\n<\/p>\n<br>\n\n\n<p>\nEn cuanto a horarios, el casino resulta práctico para planificar tanto una visita temprana como una salida nocturna. El ritmo cambia según el día: entre semana suele ser más tranquilo y el fin de semana se nota más movimiento. En las horas de mayor afluencia la actividad se concentra en mesas y en la zona de póker, donde el ambiente se vuelve más social. Esa combinación atrae a quienes buscan energía, pero con sensación de control.\n\n<\/p>\n<br>\n<p>\nLa parte de bar y gastronomía convierte el juego en un plan completo. La propuesta suele apoyarse en cócteles, vinos y clásicos bien ejecutados para acompañar la noche de forma relajada. El restaurante encaja tanto antes de jugar como para cerrar la velada con un bocado tardío. Comer y beber aquí se vive como un complemento natural del conjunto.\n\n<\/p>\n<br>\n<p>\nNo es habitual esperar un hotel dentro del propio casino, pero la marina ofrece múltiples opciones de alojamiento muy cerca, desde hoteles de negocios hasta propuestas más vacacionales. Esto facilita venir a torneos, eventos o escapadas sin depender de largos desplazamientos. Muchos visitantes combinan la experiencia con paseos frente al mar y rutas nocturnas por la zona. Así, la visita se integra en un plan más amplio.\n\n<\/p>\n<br>\n<p>\nLos eventos y el entretenimiento en Casino Mediterráneo Alicante suelen girar alrededor de torneos, noches temáticas y propuestas culturales. Las series de póker aportan emoción competitiva, mientras que ciertas programaciones nocturnas añaden un toque festivo. En temporada pueden aparecer semanas especiales y actividades puntuales con más dinamismo. Por eso el casino se percibe como parte de la vida nocturna, no solo como sala de juego.\n\n<\/p>\n<br>\n<p>\nLas fórmulas de incentivos y ventajas buscan devolver valor en forma de privilegios. Lo habitual es acumular puntos, recibir invitaciones, detalles en fechas señaladas y ofertas personalizadas. Para quienes visitan con frecuencia, las condiciones ganan peso: crecen los beneficios y el acceso a experiencias reservadas. El resultado es una propuesta que combina juego, servicio y ambiente con continuidad.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nServicio y operaciones: personal, idiomas, pagos y cobro de premios\n<\/h3>\n\n<p>\nEl equipo de Casino Mediterráneo Alicante suele trabajar con un enfoque clásico de casino presencial: control de acceso, ayuda en registro y personal atento en sala. Los crupieres acostumbran a mantener ritmo profesional, explicando dinámicas básicas cuando el visitante lo necesita. En momentos de mayor afluencia, la atención se apoya en procedimientos claros para que todo avance sin fricciones. La sensación general se construye con corrección, calma y un ambiente controlado.\n\n<\/p>\n<br>\n\n\n<p>\nEn idiomas, lo habitual es un dominio pleno del español y, en un entorno turístico, apoyo funcional en inglés. Para visitantes internacionales, el personal suele facilitar indicaciones esenciales y resolver dudas prácticas, aunque la comunicación principal se mantiene en español. En póker y torneos la claridad es clave, por lo que anuncios y normas se transmiten de forma directa. Si se prevén gestiones complejas, conviene consultarlas en el punto de atención al cliente.\n\n<\/p>\n<br>\n<p>\nLa moneda habitual de operación es el euro, y los métodos comunes incluyen efectivo y tarjetas bancarias. En un casino presencial, estos formatos cubren tanto la parte de juego como consumos de restauración. En ciertas situaciones pueden existir límites, verificaciones adicionales o requisitos de identificación, sobre todo cuando las cantidades son elevadas. En general, cuanto mayor es la operación, más importante es que la documentación esté en regla.\n\n<\/p>\n<br>\n<p>\nLos cajeros automáticos en el propio entorno o cercanos permiten retirar efectivo con rapidez, aunque las comisiones dependen de la entidad bancaria. El cambio de divisa puede ser limitado dentro del circuito del casino, por lo que suele ser más eficiente llegar ya con euros preparados. Si se viaja con otra moneda, lo mejor es gestionar el cambio con bancos o servicios autorizados durante el día. También se recomienda contar con un método de pago alternativo para evitar imprevistos.\n\n<\/p>\n<br>\n<p>\nEl cobro de premios en un casino presencial se realiza normalmente en caja, siguiendo reglas internas y con identificación obligatoria. Los importes pequeños suelen liquidarse con agilidad, mientras que cantidades grandes pueden requerir verificaciones adicionales y tiempos de tramitación más largos. Esto puede ir desde minutos hasta un proceso más extenso si hay controles internos. Guardar tickets y justificantes ayuda a resolver cualquier aclaración posterior.\n\n<\/p>\n<br>\n<p>\nLa fiscalidad del premio depende del perfil del jugador y de la normativa aplicable, por lo que no existe una respuesta única válida para todos. Como criterio general, los premios pueden considerarse renta y estar sujetos a declaración según la situación personal. El casino suele cumplir con exigencias de identificación y registro, pero la responsabilidad de declarar suele recaer en el jugador. Si se trata de una cantidad importante, es recomendable asesorarse para actuar correctamente.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nNormas de visita en Casino Mediterráneo Alicante: vestimenta, acceso y comodidad\n<\/h3>\n\n<p>\nLa entrada al casino está reservada a personas mayores de edad y normalmente se solicita un documento de identidad en el acceso. El control de seguridad sigue procedimientos estándar para mantener un ambiente tranquilo. El código de vestimenta suele encajar en un estilo smart casual, adecuado para una salida nocturna. La ropa deportiva, elementos de playa o un look excesivamente informal pueden implicar que no se permita el acceso. Dentro es importante respetar la convivencia: no incomodar a otros visitantes y seguir las indicaciones del personal. La grabación de vídeo y la toma de fotos en zonas de juego suelen estar limitadas. No se recomienda acceder con bultos grandes, y ciertos objetos pueden requerir revisión. En mesas, el orden de apuesta y el ritmo lo marcan normas claras, por lo que conviene preguntar si surge una duda. Para póker o torneos, es útil llegar con tiempo para completar registro y evitar prisas. Se puede llegar caminando por la marina, en taxi o en coche. Para quien conduce, suele haber parking, y el transporte público facilita el acceso desde puntos céntricos.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nCódigo de vestimenta: estilo cuidado y casual elegante; mejor calzado cerrado; evitar ropa de playa y conjuntos deportivos.\n\n<\/li>\n            <li>• \nCondiciones de acceso: 18+; documento obligatorio; posible registro en entrada; control de seguridad según criterio del casino.\n\n<\/li>\n            <li>• \nProhibiciones: fotos\/vídeo en zonas de juego; conductas agresivas; interferir en partidas; acceso con embriaguez evidente; uso de documentación ajena.\n\n<\/li>\n            <li>• \nParking y cómo llegar: acceso cómodo en coche; parking en el entorno; recorrido a pie desde la marina; taxi como opción rápida de noche; paradas de bus cercanas a zonas principales.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPrograma de fidelidad de Casino Mediterráneo Alicante: niveles, ventajas y bonos\n<\/h3>\n\n<p>\nEl programa de fidelidad de Casino Mediterráneo Alicante suele estar diseñado para premiar la constancia y mejorar la relación valor‑experiencia en cada visita. La base se apoya en acumular puntos por juego y ciertos consumos, que después se transforman en ventajas. A mayor actividad, se accede a niveles superiores con mejores condiciones y ofertas personalizadas. Para muchos usuarios, el atractivo no se limita a los bonos: también cuenta el trato preferente y la comodidad. La inscripción suele ser rápida y se vincula al documento de identidad para facilitar el control de operaciones. Una vez dentro, la acumulación funciona de forma automática y se refleja en el perfil del cliente. Los niveles ordenan beneficios y hacen más sencillo entender qué se obtiene con cada tramo. En días de torneos o eventos, el programa puede reforzarse con acciones especiales. Es importante revisar caducidades y reglas de canje para aprovechar cada punto. Para el público de póker, suelen existir incentivos específicos como tickets y prioridad de registro. Al final, la fidelidad convierte el plan de casino en una experiencia más rentable y completa.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCondiciones de registro\n<\/h4>\n\n <ul>\n            <li>• \nEdad y documento: 18+; DNI o pasaporte obligatorio.\n\n<\/li>\n            <li>• \nFormulario: datos básicos y aceptación de normas del club.\n\n<\/li>\n            <li>• \nTarjeta\/perfil: activación de perfil digital o tarjeta de miembro.\n\n<\/li>\n            <li>• \nActivación: los puntos empiezan a contar desde el alta.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveles y cómo conseguirlos \n<\/h4>\n\n <ul>\n            <li>• \nBronze: alta + primera visita; beneficios de inicio y acumulación básica.\n\n<\/li>\n            <li>• \nSilver: desde 1.000 puntos\/mes; mejor ratio de puntos y más ofertas.\n\n<\/li>\n            <li>• \nGold: desde 3.000 puntos\/mes; servicio preferente y ventajas ampliadas.\n\n<\/li>\n            <li>• \nPlatinum\/VIP: desde 7.500 puntos\/mes; privilegios máximos y experiencias exclusivas.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonos y ventajas\n<\/h4>\n\n <ul>\n            <li>• \nBono de bienvenida: 10€ Free Play para empezar con impulso.\n\n<\/li>\n            <li>• \nCashback de juego: hasta 5% (Silver), hasta 8% (Gold), hasta 12% (VIP) por periodo.\n\n<\/li>\n            <li>• \nDetalle de cumpleaños: 20€ Free Play o vale 20€ en gastronomía.\n\n<\/li>\n            <li>• \nTickets de torneos: 10–50€ en buy-in según nivel y campañas.\n\n<\/li>\n\t    <li>• \nVentajas combinadas: -10% en cenas ciertos días y descuento de parking (según nivel).\n\n<\/li>\n\t    <li>• \nCanje de puntos: 100 puntos = 1€ en Free Play o servicios, bajo normas del club.\n\n<\/li>\n\t    <li>• \nOfertas personalizadas: misiones semanales con premio hasta 30€ Free Play o entradas de póker.\n\n\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Proveedores de software"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entretenimiento y juegos e Casino Mediterráneo Alicante",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonos y promociones en Casino Mediterráneo Alicante: ofertas, premios y eventos de temporada\n<\/h3>\n\n<p>\nMás allá del programa de fidelidad, Casino Mediterráneo Alicante suele activar promociones independientes para dar más valor a cada visita. Muchas giran alrededor del póker: series, satélites y jornadas especiales con premios añadidos. En slots, es común ver campañas con premios sorpresa o mecánicas “mystery” que aportan emoción. Los juegos de mesa también pueden acompañarse de noches temáticas con fichas promocionales o detalles bajo ciertas condiciones. La parte de ocio aporta motivaciones extra, con veladas musicales y celebraciones estacionales. La gastronomía puede integrarse mediante packs que combinan cena y ventajas de juego. En periodos festivos, el calendario se vuelve más intenso y aumenta el componente de sorteo y regalo. Para quienes llegan por primera vez, a veces hay ofertas de bienvenida para probar el entorno con menor barrera. También aparecen torneos de entrada accesible donde prima el ritmo y la participación. Para grupos, existen formatos que mezclan consumición, cena y entretenimiento en un plan único. Así, incluso una visita puntual puede convertirse en una experiencia especial con extras reales.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPromociones y bonos\n<\/h4>\n\n <ul>\n            <li>• \nFree Play de bienvenida: 5–15€ en slots en campañas de primera visita; ideal para empezar.\n\n<\/li>\n            <li>• \nMystery Prize Night: premios sorpresa de 50€ a 5.000€ en noches seleccionadas; más adrenalina.\n\n<\/li>\n            <li>• \nSorteo tipo jackpot: posibilidad de premio grande “hasta 100.000€” en días promocionales y mecánicas progresivas.\n\n<\/li>\n            <li>• \nSeries de póker: bolsas de premios “hasta 50.000€ o más” durante festivales; enfoque competitivo.\n\n<\/li>\n\t    <li>• \nSatélites a torneos: entrada desde 20–40€ para ganar ticket 100–300€; acceso escalonado.\n\n<\/li>\n\t    <li>• \nHappy Hours en bebidas: -20% en cócteles en franjas concretas; complemento perfecto.\n\n<\/li>\n\t    <li>• \nCena + bono: pack gastronómico con vale 10–25€ para juego en días señalados; plan completo.\n\n<\/li>\n\t    <li>• \nFiestas de temporada: eventos temáticos con regalos hasta 50€ y sorteos; ambiente festivo.\n\n<\/li>\n\t    <li>• \nMini torneos: buy-in 30–60€, formato rápido y recurrente; diversión constante.\n\n<\/li>\n\t    <li>• \nPromos para grupos: paquete de ventajas hasta 100€ en vales\/fichas con reserva de grupo.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJuegos populares en Casino Mediterráneo Alicante: de la ruleta al póker\n<\/h3>\n\n<p>\nLa oferta de Casino Mediterráneo Alicante suele apoyarse en los clásicos que se esperan en un casino presencial moderno. Los slots atraen por su variedad temática, rondas bonus y un ritmo adaptable a cada jugador. Los juegos de mesa aportan experiencia “en vivo”, con crupier, fichas y emoción a cada mano. La ruleta sigue siendo favorita por su sencillez y la sensación de expectativa constante. El blackjack se elige por el componente de decisión y la idea de estrategia a lo largo del tiempo. Para un ritmo más rápido, la bacará ofrece una dinámica directa y muy de casino tradicional. La zona de póker crea un entorno aparte donde pesan la disciplina, la lectura del rival y el control emocional. Según el día, se puede alternar entre mesas de cash y torneos con ambiente más competitivo. Las versiones electrónicas encajan con quienes prefieren autonomía y velocidad sin perder el clima de sala. En horario nocturno el ambiente se intensifica y la experiencia se vuelve más social. Para principiantes, muchas opciones son accesibles con reglas simples de inicio. En conjunto, la selección permite construir una noche a medida, desde juego relajado hasta sesiones intensas.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nSlots: variedad de temáticas, funciones bonus y rangos amplios de apuesta.\n\n<\/li>\n            <li>• \nRuleta: rondas rápidas y emoción constante; suele haber variantes disponibles.\n\n<\/li>\n            <li>• \nBlackjack: decisiones y estrategia, ideal para quien busca control.\n\n<\/li>\n            <li>• \nBacará (Punto Banco): dinámica directa, ritmo ágil y esencia clásica.\n\n<\/li>\n\t    <li>• \nPóker Texas Hold’em: cash y torneos; mezcla de técnica y psicología.\n\n<\/li>\n\t    <li>• \nPóker Omaha: más combinaciones y manos con mayor acción.\n\n<\/li>\n\t    <li>• \nRuleta electrónica\/juegos electrónicos: rapidez y comodidad para jugar a tu ritmo.\n\n<\/li>\n\t    <li>• \nApuestas deportivas (si la zona está activa): ver partidos y apostar en un mismo plan.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nApuestas en Casino Mediterráneo Alicante: mínimos y máximos por juego\n<\/h3>\n\n<p> \nLos rangos de apuesta en Casino Mediterráneo Alicante suelen estar pensados para cubrir perfiles muy distintos, desde quien quiere probar con importes bajos hasta quien busca límites altos. Los mínimos permiten aprender sin presión y mantener una sesión cómoda. Los máximos aportan margen para experiencias más intensas y ritmos de juego más exigentes. En slots y juegos electrónicos la apuesta es especialmente flexible, mientras que en mesas los límites pueden variar según mesa y horario.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#4D738B; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Juego\/zona<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Apuesta mínima<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Apuesta máxima<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots (tragaperras)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,10 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 € <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Vídeo póker <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,20 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ruleta electrónica<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,50 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ruleta (mesa)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 2 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2.000 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2.000 €<\/td>\n                <\/tr>\n              <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Bacará (Punto Banco)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5.000 €<\/td>\n                <\/tr>\n              <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Póker Texas Hold’em (cash)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">ciegas 1\/2 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">ciegas 5\/10 €<\/td>\n                <\/tr>\n              <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Póker cash — buy-in <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5.000 €<\/td>\n                <\/tr>\n              <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Torneos de póker — buy-in<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">30 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">300 €<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEventos y entretenimiento en Casino Mediterráneo Alicante: ritmo nocturno y experiencias\n<\/h3>\n\n<p>\nCasino Mediterráneo Alicante suele vivirse como un espacio donde el juego se combina con ambiente nocturno y propuestas de ocio. Los eventos de póker aportan una sensación constante de movimiento, alternando jornadas más competitivas con otras más relajadas. Por la noche, el entorno se vuelve más social y muchos visitantes llegan también por el clima y la energía. La música, las noches temáticas y las celebraciones estacionales ayudan a convertir la visita en un plan completo.\n\n<\/p>\n<br>\n\n\n<p>\nUna parte importante la ocupan formatos regulares fáciles de encajar en cualquier salida. Puede tratarse de un lounge nocturno con sesiones de DJ, actuaciones musicales o programaciones temáticas que se integran bien con cena y juego. En ciertos días, el ambiente se acerca a lo “club”, con más intensidad y dinamismo, pero manteniendo el confort propio del casino. Es ideal para quien busca noche, pero valora seguridad y servicio.\n\n<\/p>\n<br>\n<p>\nLa agenda se potencia durante series de póker, periodos festivos y fechas señaladas. En esas ocasiones es común ver más acciones especiales, sorteos y detalles que amplían la experiencia. El visitante suele quedarse más tiempo porque el plan no se limita a una sola mesa. Así, el casino funciona como un punto de encuentro para sumar distintos momentos en una misma velada.\n\n<\/p>\n<br>\n<p>\nTambién existe una vertiente cultural que añade variedad y un toque urbano. Las exposiciones y formatos artísticos ofrecen una pausa visual y un ocio más tranquilo dentro del conjunto. Cuando esta parte coincide con la gastronomía y la actividad nocturna, el resultado es una experiencia completa sin exceso. Todo ello refuerza la idea de que Casino Mediterráneo Alicante es juego, sí, pero también estilo y ocio.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nTorneos de póker: eventos regulares con distintos formatos y ritmos.\n\n<\/li>\n            <li>• \nSeries de póker: semanas especiales con mayor intensidad y atractivo.\n\n<\/li>\n            <li>• \nCash póker: mesas nocturnas para juego libre y continuo.\n\n<\/li>\n            <li>• \nNoches DJ\/lounges: música y ambiente tipo club en formato cómodo.\n\n<\/li>\n\t    <li>• \nFiestas temáticas: celebraciones de temporada con actividades y premios.\n\n<\/li>\n\t    <li>• \nNoches deportivas (si la zona está activa): partidos, apuestas y ambiente social.\n\n<\/li>\n\t    <li>• \nExposiciones culturales: proyectos artísticos en espacios comunes.\n\n<\/li>\n\t    <li>• \nEventos gastronómicos: cenas especiales y experiencias de degustación.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRestaurantes, bares y descanso en Casino Mediterráneo Alicante: una noche redonda\n<\/h3>\n\n<p>\nEl descanso en Casino Mediterráneo Alicante muchas veces empieza por la gastronomía y el ambiente. Un buen plan puede ser cenar primero, pasear por el espacio y después elegir el tipo de juego con calma. La propuesta culinaria ayuda a convertir la visita en una experiencia más completa, especialmente si se busca una salida sin prisas. Por eso es un lugar atractivo para parejas, grupos y visitantes que priorizan el conjunto, no solo el juego.\n\n<\/p>\n<br>\n\n\n<p>\nLa parte de bar se adapta a varios momentos: un aperitivo antes de entrar en sala, un cóctel en un descanso o una copa para cerrar la noche. Mucha gente prefiere un formato ligero de bebida y snack para mantener el confort. Además, estas pausas sirven para cambiar de ritmo entre slots, mesas y póker, sobre todo en visitas largas. Con la iluminación y el tono nocturno, el resultado se siente como un lounge urbano.\n\n<\/p>\n<br>\n<p>\nEn cuanto a hoteles, el punto fuerte es la ubicación en la marina, que suele ofrecer múltiples opciones de alojamiento muy cerca. Esto encaja con quienes terminan tarde o viajan por eventos y torneos. Dormir cerca transforma la salida en una escapada cómoda, sin complicaciones. También permite combinar casino, paseo junto al mar y cena tardía en un mismo itinerario.\n\n<\/p>\n<br>\n<p>\nEn conjunto, la experiencia se apoya en la idea de “todo en uno”: juego, comida, bebida y ambiente nocturno. Se puede hacer una visita corta o alargarla varias horas, cambiando de actividad según el ánimo. La presencia de gastronomía y bar mejora la sensación de control y bienestar. Por eso Casino Mediterráneo Alicante funciona tanto para emoción como para descanso.\n\n<\/p>\n<br>\n\n\n<ul>\n            <li>• \nRestaurante Azar: cena, vinos y un plan de noche completo.\n\n<\/li>\n            <li>• \nBuffet «Las Ventanas del Casino»: variedad y opción práctica sin esperas largas.\n\n<\/li>\n            <li>• \nBar de cócteles\/zona lounge: bebidas, descansos y conversación tranquila.\n\n<\/li>\n            <li>• \nCafé‑bar: snacks rápidos y formato informal para recargar.\n\n<\/li>\n\t    <li>• \nZonas de descanso en sala: pausas cómodas entre partidas.\n\n<\/li>\n\t    <li>• \nHoteles cercanos a la marina: alojamiento a poca distancia para volver tarde.\n\n\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "faq": {
+            "title": "Preguntas frecuentes",
+            "items": [
+                {
+                    "title": "¿Puedo cambiar fichas por dinero en cualquier momento?",
+                    "answer": "Normalmente sí, en caja, cumpliendo normas de identificación y control de operaciones.\n"
+                },
+                {
+                    "title": "¿Existen límites para comprar fichas o recargar fondos?",
+                    "answer": "Pueden variar según el método de pago y la identificación; importes altos pueden requerir verificaciones extra.\n"
+                },
+                {
+                    "title": "¿Hay opciones de autoexclusión o restricción de acceso?",
+                    "answer": "Sí, suele existir un mecanismo de autoexclusión y límites para promover control y juego responsable.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1667",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Mediterráneo Alicante "
+        }
+    },
+    "langs": [
+        {
+            "code": "es-ES",
+            "name": "Испанский",
+            "isDefault": true
+        }
+    ]
+}
